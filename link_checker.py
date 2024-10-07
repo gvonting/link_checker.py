@@ -43,7 +43,7 @@ from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.by import By
 
 #Paths and other info needed for app operation
-user_dir = "/home/garrett/Desktop/OnlineFileSync/Projects/python_website_checker/"
+user_dir = ""
 
 saved_data_dir = f'{user_dir}websiteCheckData/'
 saved_link_data_notes = f'{saved_data_dir}linkDataNotes/'
